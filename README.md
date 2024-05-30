@@ -1,4 +1,4 @@
-# Remove List Numbers
+# Remove File List Numbers
 ## Introduction
 
 How often do you find yourself downloading a music playlist that is numbered? Numbering songs, videos, or other items in a list isn't inherently problematic, but it can introduce certain challenges. For instance, when downloading a playlist from someone's YouTube channel, you may encounter redundant videos or audio tracks. 
